@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #92a4b1;
+}
+h1{
+
+    margin-top: 5vw;
+    color: white;
+    border-bottom:5px white;
+   
+}
+.div{
+    margin-top: 3.5vw;
+    background-color: #29343d;
+    width: 50vw;
+    height: 30vw;
+    border-radius: 5vw;
+    overflow: hidden;
+    box-shadow: black 0px 10px 10px;
+}
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 5vw;   
+}
+.a{
+    border-radius:2vw;
+    height: 4vw;
+    width: 30vw;
+    background-color: white;
+    outline: none;
+}
+.b{
+    border-radius: 2vw;
+    height: 4vw;
+    margin-top: 2vw;
+    width: 30vw;
+    background-color: white;
+    outline: none;
+}
+.valider{
+    margin-top: 2vw;
+    position: relative;
+    left:11vw;
+    width: 10vw;
+    height: 3vw;
+    border-radius: 2vw;
+    background-color: #92a4b1;
+}
+table{
+    border-collapse: collapse;
+    margin-top: 2vw;
+   
+}
+/* tr{
+    border:5px solid black;
+} */
+td{
+    width: 10vw;
+    height:3vw;
+    border:black solid 2px;
+    border-radius: 10px;
+}
+
+/* Styles de la modifications  */
+
